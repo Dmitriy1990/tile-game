@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas{
+    background-color: gray;
+    left: 50%;
+    position: relative;
+    translate: -50% 0;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
