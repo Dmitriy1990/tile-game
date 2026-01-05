@@ -12,3 +12,7 @@
     image-rendering: crisp-edges;
     image-rendering: pixelated;
 }
+
+.assets{
+    display: none;
+}
